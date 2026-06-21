@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de canela ardiente, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Piel de canela ardiente, Vol. 2** (piel-de-canela-ardiente-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T03:54:14.736416 | `v1` | `e94eab0bb21460b317afe89b20263925f4b5e731968994729abe1a0970608d40` | `8c8e0449af4c022b17905c846bca80e8ab49bd113be21ffce7032438905c7335` | `2026-06-22_piel-de-canela-ardiente-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

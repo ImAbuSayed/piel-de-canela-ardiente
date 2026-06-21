@@ -1,6 +1,6 @@
 # License
 
-**Piel de canela ardiente**
+**Piel de canela ardiente, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
